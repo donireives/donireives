@@ -8,7 +8,7 @@ const doni = {
   devOps: ["AWS", "Docker", "Kubernetes", "Nginx"],
   ui: ["React", "Redux", "HTML", "SCSS"],
   mobile: ["React", "Flutter"],
-  workingOn: [Invento Technology, 8 Studio, Freelance],
+  workingOn: ["Invento Technology", "8 Studio", "Freelance"],
   currentlyLearning: ["AI", "blockChain"]
 }
 ```
