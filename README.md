@@ -1,5 +1,5 @@
 <h2> Hi there 👋</h2>
-<img align='right' src="https://media.giphy.com/media/uhy2fnDYJK2R2/giphy.gif" width="200">
+<img align='right' src="https://media.giphy.com/media/uhy2fnDYJK2R2/giphy.gif" width="220">
 
 ```javascript
 const doni = {
