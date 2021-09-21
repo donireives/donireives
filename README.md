@@ -5,7 +5,7 @@
 const doni = {
   code: ["JavaScript", "Typescript", "PHP", "Python", "Go", "C++"],
   database: ["DynamoDB", "MySql", "MongoDB", "Firestore", "Redis", "BigQuery"],
-  devOps: ["AWS", "Docker", "Kubernetes", "Nginx"],
+  devOps: ["AWS", "GCP", "Docker", "Kubernetes", "Nginx"],
   ui: ["React", "Redux", "HTML", "SCSS"],
   mobile: ["React", "Flutter"],
   workingOn: ["Invento Technology", "8 Studio", "Freelance"],
