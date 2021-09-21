@@ -4,7 +4,7 @@
 ```javascript
 const doni = {
   code: ["JavaScript", "Typescript", "PHP", "Python", "Go", "C++"],
-  database: ["DynamoDB", "MySql", "MongoDB", "Firestore", "Redis"],
+  database: ["DynamoDB", "MySql", "MongoDB", "Firestore", "Redis", "BigQuery"],
   devOps: ["AWS", "Docker", "Kubernetes", "Nginx"],
   ui: ["React", "Redux", "HTML", "SCSS"],
   mobile: ["React", "Flutter"],
