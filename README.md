@@ -1,3 +1,5 @@
+<br/><br/>
+
 <h2> Hi there</h2>
 <img align='right' src="https://media.giphy.com/media/uhy2fnDYJK2R2/giphy.gif" width="230">
 
@@ -12,3 +14,5 @@ const doni = {
   currentlyLearning: ["AI", "blockChain"]
 }
 ```
+
+<br/><br/>
