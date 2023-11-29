@@ -6,9 +6,10 @@
 ```javascript
 const doni = {
   code: ["JavaScript", "Typescript", "PHP", "Python", "Go", "C++"],
-  database: ["DynamoDB", "MySql", "MongoDB", "Firestore", "Redis", "BigQuery"],
-  server: ["AWS", "GCP", "Docker", "Kubernetes", "Nginx", "GraphQL"],
-  ui: ["ReactJs", "Redux", "HTML", "SCSS"],
+  database: ["DynamoDB", "MySql", "PostgreSql", "MongoDB", "BigQuery", "Firestore", "Redis"],
+  server: ["AWS", "GCP", "Docker", "Kubernetes", "Nginx"],
+  ui: ["ReactJs", "NextJs", "HTML", "SCSS"],
+  communication: ["REST-API", "Socket", "MQTT", "GraphQL"],
   mobile: ["React", "Flutter"],
   workingOn: ["Invento Technology", "8 Studio", "Freelance"],
   currentlyLearning: ["AI", "blockChain"]
