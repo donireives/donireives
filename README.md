@@ -6,12 +6,11 @@
 ```javascript
 const doni = {
   code: ["JavaScript", "Typescript", "PHP", "Python", "Go", "C++"],
-  database: ["DynamoDB", "MySql", "PostgreSql", "MongoDB", "BigQuery", "Firestore", "Redis"],
+  database: ["DynamoDB", "MySql", "PostgreSql", "MongoDB", "BigQuery", "Firestore", "Redis", "InfluxData"],
   server: ["AWS", "GCP", "Docker", "Kubernetes", "Nginx"],
   ui: ["ReactJs", "NextJs", "HTML", "SCSS"],
   communication: ["REST-API", "Socket", "MQTT", "GraphQL"],
   mobile: ["React", "Flutter"],
-  workingOn: ["Invento Technology", "8 Studio", "Freelance"],
   currentlyLearning: ["AI", "blockChain"]
 }
 ```
